@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/yasserbaragh/count.svg" alt="Visitor's Count" />
 </div>
 
 
@@ -9,10 +9,6 @@
 </h1>
 
 ### A Software engineer, Passionate about web developement, I develop web apps with spring boot, nextjs and typescript
-
-
-I’m currently learning **[Agentic AI](https://www.ibm.com/think/topics/agentic-ai)**
-Ask me about **Java, Node.js, React...or anything [here](https://github.com/{yasserbaragh}/{yasserbaragh}/issues)**
 
 <br>
 
@@ -26,6 +22,7 @@ Ask me about **Java, Node.js, React...or anything [here](https://github.com/{yas
   
   <a href="https://yasserbaragh.netlify.app/" target="_blank">
     <img src="https://yasserbaragh.netlify.app/assets/code123-BRSUfDBg.png?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
+    WEBSITE
   </a>
 </div>
 
