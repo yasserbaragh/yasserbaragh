@@ -20,7 +20,7 @@
 <hr>
 
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <br>
 
@@ -31,7 +31,7 @@
 
 <hr>
 
-## ⚡️ Stats
+## Stats
 
 <br>
 
