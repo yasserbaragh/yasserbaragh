@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Yasser!;" />
 </h1>
 
-### A Software engineer, Passionate about web developement, I develop web apps with spring boot, nextjs and typescript
+### A Software engineer, Passionate about web developement, I develop web apps with spring boot, nestjs, nextjs and typescript
 
 <br>
 
@@ -25,7 +25,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,nginx,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,nginx,mysql,nestjs" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,git,postman,figma" />
 </p>
 
