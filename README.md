@@ -2,7 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Yasser!;" />
 </h1>
 
-### A Software engineer, Passionate about web developement, I develop web apps with spring boot, nestjs, nextjs and typescript
+### A Software engineer, and a Full Stack Web developer
+### I work with REACT and NEXTJS on the frontend along with EXPRESS,NESTJS javascript, SPRING BOOT java on the backend
+### I build scalable websites with maintainable and clean code
 
 <br>
 
