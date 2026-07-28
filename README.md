@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&pause=1000&color=4493F8&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Yasser+%F0%9F%91%8B;Full+Stack+Software+Engineer;Java+%2F+Spring+Boot+%C2%B7+React+%2F+Next.js;Building+AI-powered+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&pause=1000&color=F72585&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Yasser;Full+Stack+Software+Engineer;Java+%2F+Spring+Boot+%C2%B7+React+%2F+Next.js;Building+AI-powered+products" alt="Typing SVG" />
 
 ### Full-stack engineer building production systems end to end — backend architecture, modern frontends, and shipping them to real users.
 
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://yasserbaragh.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4493F8?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-F72585?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:yasserbaragh@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -33,8 +33,6 @@
 
 <table>
 <tr>
-
-</td>
 <td width="50%" valign="top">
 
 ### [Multi-Tenant RBAC System](https://github.com/yasserbaragh/role-management)
@@ -44,8 +42,6 @@ Dynamic role & permission management, built twice to compare stacks — same des
 - Written up in a Medium deep-dive
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Real-Time Video Call App](https://github.com/yasserbaragh/real-time-videoCall-app)
@@ -55,30 +51,55 @@ Discord-style video/audio calling app built on WebRTC.
 - Custom signaling & auth flow
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
+### Moudjahid 3D Showcase
+Browser-based interactive 3D character showcase honoring a historically accurate Algerian moudjahid.
+**React · Three.js**
+- Creative side project blending history with WebGL
 
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,nodejs,nestjs,python&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,html,css,tailwind,sass&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,nginx,git,postman,figma&theme=dark" />
-</p>
+<p align="center"><i>More on my <a href="https://yasserbaragh.netlify.app/">portfolio site →</a></i></p>
 
 <br>
 
-## GitHub Stats
+### GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yasserbaragh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserbaragh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yasserbaragh&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserbaragh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasserbaragh&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasserbaragh&theme=radical&hide_border=true&background=0D1117" />
 </div>
+
+<br>
+<hr>
+<br>
+
+## Tech Stack
+
+**Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,python&theme=dark" />
+</p>
+
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,ts,js,html,css,tailwind,sass&theme=dark" />
+</p>
+
+**Databases & Infra**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,nginx,git,postman,figma&theme=dark" />
+</p>
 
 <br>
 
