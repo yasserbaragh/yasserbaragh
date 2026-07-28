@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&pause=1000&color=F72585&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Yasser;Full+Stack+Software+Engineer;Java+%2F+Spring+Boot+%C2%B7+React+%2F+Next.js;Building+AI-powered+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&pause=1000&color=F72585&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Yasser;Full+Stack+Software+Engineer;MERN+%C2%B7+NestJS+%C2%B7+Spring+Boot" alt="Typing SVG" />
 
 ### Full-stack engineer building production systems end to end — backend architecture, modern frontends, and shipping them to real users.
 
