@@ -11,7 +11,7 @@
   <a href="https://yasserbaragh.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4493F8?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:yasserbaragh@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -48,7 +48,7 @@ Dynamic role & permission management, built twice to compare stacks — same des
 <tr>
 <td width="50%" valign="top">
 
-### 🎥 Real-Time Video Call App
+### 🎥 [Real-Time Video Call App](https://github.com/yasserbaragh/real-time-videoCall-app)
 Discord-style video/audio calling app built on WebRTC.
 **Next.js · Socket.IO · WebRTC · JWT**
 - Mesh-topology peer connections
