@@ -37,7 +37,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🔐 [Multi-Tenant RBAC System](https://github.com/yasserbaragh/role-management)
+### [Multi-Tenant RBAC System](https://github.com/yasserbaragh/role-management)
 Dynamic role & permission management, built twice to compare stacks — same design, two backends.
 **Spring Boot · NestJS · TypeORM · JPA**
 - Multi-company SaaS-ready architecture
@@ -48,7 +48,7 @@ Dynamic role & permission management, built twice to compare stacks — same des
 <tr>
 <td width="50%" valign="top">
 
-### 🎥 [Real-Time Video Call App](https://github.com/yasserbaragh/real-time-videoCall-app)
+### [Real-Time Video Call App](https://github.com/yasserbaragh/real-time-videoCall-app)
 Discord-style video/audio calling app built on WebRTC.
 **Next.js · Socket.IO · WebRTC · JWT**
 - Mesh-topology peer connections
