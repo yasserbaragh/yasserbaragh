@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&pause=1000&color=F72585&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Yasser;Full+Stack+Software+Engineer;MERN+%C2%B7+NestJS+%C2%B7+Spring+Boot;Next.js+%2F+React" alt="Typing SVG" />
 
-### Full-stack engineer building production systems end to end backend architecture, modern frontends, and shipping them to real users.
+### Full-stack engineer building production systems end to end — backend architecture, modern frontends, and shipping them to real users.
 
 <p>
   <a href="https://linkedin.com/in/yasser-abdeldjalil-baragh-6632591bb" target="_blank">
@@ -52,17 +52,6 @@ Discord-style video/audio calling app built on WebRTC.
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### Moudjahid 3D Showcase
-Browser-based interactive 3D character showcase honoring a historically accurate Algerian moudjahid.
-**React · Three.js**
-- Creative side project blending history with WebGL
-
-</td>
-<td width="50%" valign="top"></td>
-</tr>
 </table>
 
 <p align="center"><i>More on my <a href="https://yasserbaragh.netlify.app/">portfolio site →</a></i></p>
@@ -88,7 +77,7 @@ Browser-based interactive 3D character showcase honoring a historically accurate
 
 **Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,python,fastapi,django&theme=dark" />
 </p>
 
 **Frontend**
