@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&pause=1000&color=F72585&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Yasser;Full+Stack+Software+Engineer;MERN+%C2%B7+NestJS+%C2%B7+Spring+Boot;Next.js+%2F+React" alt="Typing SVG" />
 
-### Full-stack engineer building production systems end to end, backend architecture, modern frontends, and shipping them to real users.
+### Full-stack engineer building production systems end to end, backend architecture, modern frontends, and shipping them to real users
 
 <p>
   <a href="https://linkedin.com/in/yasser-abdeldjalil-baragh-6632591bb" target="_blank">
