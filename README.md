@@ -22,7 +22,7 @@
 
 ## About Me
 
-- Master's in Software Engineering @ **USTHB** (2024–2026)
+- Master's in Software Engineering @ **USTHB**
 - Web Development Instructor @ **Gomycode**
 - Available for freelance / full-time full-stack work
 - Based in Algeria, open to remote opportunities
