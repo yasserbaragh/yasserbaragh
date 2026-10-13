@@ -73,13 +73,14 @@ Bot that watches football transfer news on a schedule, uses AI to pull out the p
 ### GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yasserbaragh&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" />
+  <img height="165" src="https://vercel.app" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserbaragh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasserbaragh&theme=radical&hide_border=true&background=0D1117" />
 </div>
+
 
 <br>
 <hr>
